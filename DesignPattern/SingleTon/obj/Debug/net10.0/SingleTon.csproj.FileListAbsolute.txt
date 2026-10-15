@@ -1,0 +1,15 @@
+/home/momin-sheikh/resource/DesignPattern/SingleTon/bin/Debug/net10.0/SingleTon
+/home/momin-sheikh/resource/DesignPattern/SingleTon/bin/Debug/net10.0/SingleTon.deps.json
+/home/momin-sheikh/resource/DesignPattern/SingleTon/bin/Debug/net10.0/SingleTon.runtimeconfig.json
+/home/momin-sheikh/resource/DesignPattern/SingleTon/bin/Debug/net10.0/SingleTon.dll
+/home/momin-sheikh/resource/DesignPattern/SingleTon/bin/Debug/net10.0/SingleTon.pdb
+/home/momin-sheikh/resource/DesignPattern/SingleTon/obj/Debug/net10.0/SingleTon.GeneratedMSBuildEditorConfig.editorconfig
+/home/momin-sheikh/resource/DesignPattern/SingleTon/obj/Debug/net10.0/SingleTon.AssemblyInfoInputs.cache
+/home/momin-sheikh/resource/DesignPattern/SingleTon/obj/Debug/net10.0/SingleTon.AssemblyInfo.cs
+/home/momin-sheikh/resource/DesignPattern/SingleTon/obj/Debug/net10.0/SingleTon.csproj.CoreCompileInputs.cache
+/home/momin-sheikh/resource/DesignPattern/SingleTon/obj/Debug/net10.0/SingleTon.sourcelink.json
+/home/momin-sheikh/resource/DesignPattern/SingleTon/obj/Debug/net10.0/SingleTon.dll
+/home/momin-sheikh/resource/DesignPattern/SingleTon/obj/Debug/net10.0/refint/SingleTon.dll
+/home/momin-sheikh/resource/DesignPattern/SingleTon/obj/Debug/net10.0/SingleTon.pdb
+/home/momin-sheikh/resource/DesignPattern/SingleTon/obj/Debug/net10.0/SingleTon.genruntimeconfig.cache
+/home/momin-sheikh/resource/DesignPattern/SingleTon/obj/Debug/net10.0/ref/SingleTon.dll
