@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingleTon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a28dd74c207ec05ad151e0bb71e94fa71b4ee3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bccd1f5746e3b491f9ad41bfe71fbb04d7b3d3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingleTon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingleTon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

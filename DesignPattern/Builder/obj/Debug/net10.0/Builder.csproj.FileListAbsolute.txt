@@ -1,0 +1,15 @@
+/home/momin-sheikh/resource/DesignPattern/Builder/bin/Debug/net10.0/Builder
+/home/momin-sheikh/resource/DesignPattern/Builder/bin/Debug/net10.0/Builder.deps.json
+/home/momin-sheikh/resource/DesignPattern/Builder/bin/Debug/net10.0/Builder.runtimeconfig.json
+/home/momin-sheikh/resource/DesignPattern/Builder/bin/Debug/net10.0/Builder.dll
+/home/momin-sheikh/resource/DesignPattern/Builder/bin/Debug/net10.0/Builder.pdb
+/home/momin-sheikh/resource/DesignPattern/Builder/obj/Debug/net10.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/home/momin-sheikh/resource/DesignPattern/Builder/obj/Debug/net10.0/Builder.AssemblyInfoInputs.cache
+/home/momin-sheikh/resource/DesignPattern/Builder/obj/Debug/net10.0/Builder.AssemblyInfo.cs
+/home/momin-sheikh/resource/DesignPattern/Builder/obj/Debug/net10.0/Builder.csproj.CoreCompileInputs.cache
+/home/momin-sheikh/resource/DesignPattern/Builder/obj/Debug/net10.0/Builder.sourcelink.json
+/home/momin-sheikh/resource/DesignPattern/Builder/obj/Debug/net10.0/Builder.dll
+/home/momin-sheikh/resource/DesignPattern/Builder/obj/Debug/net10.0/refint/Builder.dll
+/home/momin-sheikh/resource/DesignPattern/Builder/obj/Debug/net10.0/Builder.pdb
+/home/momin-sheikh/resource/DesignPattern/Builder/obj/Debug/net10.0/Builder.genruntimeconfig.cache
+/home/momin-sheikh/resource/DesignPattern/Builder/obj/Debug/net10.0/ref/Builder.dll
